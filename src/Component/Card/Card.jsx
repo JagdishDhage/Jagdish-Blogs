@@ -50,7 +50,7 @@ createdAt}
             alt="Avatar" 
             className="w-6 h-6 rounded-full"
           />
-          <span className="text-xs font-medium text-gray-700 dark:text-gray-300">John Doe</span>
+          <span className="text-xs font-medium text-gray-700 dark:text-gray-300">Jagdish Dhage</span>
         </div>
         <button className="text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200">
           <Share2 className="h-4 w-4" />
